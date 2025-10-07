@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "Projekt.sln"
+    "dotnet.defaultSolution": "Projekt.sln",
+    "terminal.integrated.cwd": "${workspaceFolder}/Projekt"
 }
